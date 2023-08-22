@@ -1,10 +1,10 @@
 const BLOG = {
-  title: "CRAIGARY",
+  title: "VV605 Blog",
   author: "vv605",
   email: "chengwen0605@163.com",
   link: "https://nobelium.vercel.app",
-  description: "This gonna be an awesome website.",
-  lang: ["en-US", "zh-CN"], // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  description: "so welcome to my little corner of the world...",
+  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Asia/Shanghai", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: ["light", "dark", "auto"],
   font: "sans-serif", // ['sans-serif', 'serif']
